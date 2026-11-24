@@ -1,6 +1,6 @@
 {
   "name": "Punteggio Raspa",
-  "short_name": "Raspa",
+  "short_name": "Punteggio Raspa",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,7 +9,15 @@
     {
       "src": "PUNTEGGIO_RASPA.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "PUNTEGGIO_RASPA.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
+    
   ]
 }
